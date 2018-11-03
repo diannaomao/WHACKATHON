@@ -1,6 +1,8 @@
 ## Welcome to the Wellesley Major/Minor Course Helper!
 
-We created this tool to give you a sense of what potential major/minor paths may look like for the rest of your time here. Our site is still in progress, so we 
+We created this tool to give you a sense of what potential major/minor paths may look like for the rest of your time here. Our site is still in progress, so our intended audience is mainly Wellesley first year students, and we will build up from there. 
+
+On this site, you will find links to 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
