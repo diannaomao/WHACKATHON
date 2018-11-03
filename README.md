@@ -1,6 +1,6 @@
 ## Welcome to the Wellesley Major/Minor Course Helper!
 
-You can use the [editor on GitHub](https://github.com/diannaomao/WHACKATHON/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We created this tool to give you a sense of what potential major/minor paths may look like for the rest of your time here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
