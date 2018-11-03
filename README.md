@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Wellesley Major/Minor Course Helper!
 
 You can use the [editor on GitHub](https://github.com/diannaomao/WHACKATHON/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
